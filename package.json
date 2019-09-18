@@ -1,0 +1,16 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "main": "koa-compose.js",
+  "scripts": {
+    "test": "babel test1.js --out-dir dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
